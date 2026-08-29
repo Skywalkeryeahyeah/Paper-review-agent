@@ -12,6 +12,8 @@ A **Reviewer Agent** first generates candidate review comments, while an indepen
 
 If too few valid comments remain after verification, LangGraph automatically triggers a regeneration loop and performs evidence verification again.
 
+![Home](showphoto.png)
+
 ---
 
 ## Highlights

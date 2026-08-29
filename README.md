@@ -941,8 +941,8 @@ npm
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Skywalkeryeahyeah/Paper-review-agent.git
+cd Paper-review-agent
 ```
 
 Replace the repository URL with your own GitHub repository.
